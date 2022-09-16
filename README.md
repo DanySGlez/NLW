@@ -16,4 +16,4 @@ Projeto construido do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-danysalomonglez@gmail.com
+danysalomon891223@gmail.com
