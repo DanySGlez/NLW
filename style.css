@@ -81,7 +81,7 @@ body {
 }
 
 main {
-    max-width: 580px;
+    max-width: 360px;
     width: 90%;
     margin: auto;
     display: grid;
@@ -224,4 +224,14 @@ main section:nth-child(3) {
         -ms-transform: translateX(0);
         -o-transform: translateX(0);
     }
+}
+
+/* swiper */
+section {
+    overflow: hidden;
+}
+
+section ul {
+    flex-wrap: nowrap;
+    gap: 0;
 }
