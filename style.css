@@ -81,7 +81,7 @@ body {
 }
 
 main {
-    max-width: 360px;
+    max-width: 580px;
     width: 90%;
     margin: auto;
     display: grid;
@@ -163,7 +163,6 @@ section ul li:hover {
 }
 
 /* animation */
-
 header div {
     animation: fromTop .7s .4s backwards;
     -webkit-animation: fromTop .7s .4s backwards;
