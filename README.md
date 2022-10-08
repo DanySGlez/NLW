@@ -18,8 +18,7 @@ Projeto construido do evento **Next Level Week** da Rocketseat.
   <img align"center" alt="Dany-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
 </div>          
 
-## Contato
-
+##
 <div>
   <a href="https://www.linkedin.com/in/danysglez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/dany_sglez" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
